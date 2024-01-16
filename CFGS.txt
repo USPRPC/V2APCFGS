@@ -1,5 +1,4 @@
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#ws#MCI+1+%F0%9F%8C%A0+%40V2ray_Alpha
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.25.44.33:443?security=tls, 6
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#6
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.25.44.33:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#MCI+2+%F0%9F%8C%A0+%40V2ray_Alpha
 vless://3636369d-93c6-4f6f-a9a7-f15d6e3aff5e@www.speedtest.net:443?security=tls&encryption=none&alpn=h2,http/1.1&host=edge.kian.cloudns.biz&fp=chrome&type=ws&sni=edge.kian.cloudns.biz#MCI+3+%F0%9F%8C%A0+%40V2ray_Alpha
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#MCI+4+%F0%9F%8C%A0+%40V2ray_Alpha
@@ -9,15 +8,14 @@ vless://59d41026-71d3-40d7-b53e-35c95f92b243@serv-6.alpha4.top:2087?mode=gun&sec
 vless://520bb6ba-b207-4f20-b0dd-8250893461f2@serv-7.alpha4.top:8443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram: @V2ray_Alpha&sni=alpha-mci.alpha2.top#ALL+3+%F0%9F%8C%80+%40V2ray_Alpha
 vless://6bf3e709-c1f7-4e15-b962-613cd7af4d7a@serv-8.alpha4.top:2053?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram: @V2ray_Alpha&sni=alpha-mci.alpha2.top#ALL+4+%F0%9F%8C%80+%40V2ray_Alpha
 vless://69b5e1f0-1844-489a-aa3f-68ffd3e4aee3@serv-9.alpha4.top:2083?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=Telegram: @V2ray_Alpha&sni=alpha-mci.alpha2.top#ALL+5+%F0%9F%8C%80+%40V2ray_Alpha
-vless://6e569c43-f7e6-4ab7-b3a7-f616a39ff6a1@104.21.70.11:8080?security=none&encryption=none&host=dw.huondadalioshop.ir&type=ws#ws#Dr.s+All+Operators, 8
-vless://520bb6ba-b207-4f20-b0dd-8250893461f2@104.21.59.125:8443?security=tls&encryption=none&host=drs-alpha-channel-tel.v2rayalpha.pw&fp=chrome&type=ws&sni=drs-alpha-channel-tel.v2rayalpha.pw#ws, 14
+vless://6e569c43-f7e6-4ab7-b3a7-f616a39ff6a1@104.21.70.11:8080?security=none&encryption=none&host=dw.huondadalioshop.ir&type=ws#8
+vless://520bb6ba-b207-4f20-b0dd-8250893461f2@104.21.59.125:8443?security=tls&encryption=none&host=drs-alpha-channel-tel.v2rayalpha.pw&fp=chrome&type=ws&sni=drs-alpha-channel-tel.v2rayalpha.pw#14
 vless://59d41026-71d3-40d7-b53e-35c95f92b243@173.245.59.41:2087?security=tls&encryption=none&host=drs-alpha-channel-tel.v2rayalpha.pw&fp=chrome&type=ws&sni=drs-alpha-channel-tel.v2rayalpha.pw#%D9%87%D9%85%D9%87+%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7+%D8%BA%DB%8C%D8%B1+%D8%A7%D8%B2+%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA+2
 vless://ef9e70de-6792-4251-8f5c-91ff37f131ea@173.245.58.31:2096?security=tls&encryption=none&host=drs-alpha-channel-tel.v2rayalpha.pw&fp=chrome&type=ws&sni=drs-alpha-channel-tel.v2rayalpha.pw#%D9%87%D9%85%D9%87+%D8%A7%D9%88%D9%BE%D8%B1%D8%A7%D8%AA%D9%88%D8%B1%D9%87%D8%A7+%D8%BA%DB%8C%D8%B1+%D8%A7%D8%B2+%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA+3
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?path=path%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA+1
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@188.114.96.18:443?path=path%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#%D9%85%D8%AE%D8%A7%D8%A8%D8%B1%D8%A7%D8%AA+2
-vless://49f4458b-cb3d-49a5-bed4-3b90dd3b631b@173.245.59.16:80?security=none&encryption=none&host=crtU6u.dl-aPARaT.coM&type=ws#ws#Dr.s+__+%40V2ray_Alpha, 16
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#ws#Mix+1+%E2%98%91%EF%B8%8F%40V2ray_Alpha
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:443?security=tls, 18
+vless://49f4458b-cb3d-49a5-bed4-3b90dd3b631b@173.245.59.16:80?security=none&encryption=none&host=crtU6u.dl-aPARaT.coM&type=ws#16
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#18
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:443?security=tls&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws&sni=mahi.kosnanatfilterchi.eu.org#Mix+2+%E2%98%91%EF%B8%8F%40V2ray_Alpha
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.25.44.33:443?security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Mix+3+%E2%98%91%EF%B8%8F%40V2ray_Alpha
 vless://49f4458b-cb3d-49a5-bed4-3b90dd3b631b@173.245.59.16:80?path=%2Fbackup&security=none&encryption=none&host=crtU6u.dl-aPARaT.coM&type=ws#Mix+4+%E2%98%91%EF%B8%8F%40V2ray_Alpha
@@ -27,15 +25,14 @@ vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=%2Ffflsws&sec
 vless://fe1f0a9b-586f-47fa-d2f0-741109e5eeba@tgju.org:8880?path=FREE%3Fed%3D2048&security=none&encryption=none&host=z6nxt-_-og6ft_-_avtcvu.V2N.Website&type=ws#Mix+8+%E2%98%91%EF%B8%8F%40V2ray_Alpha
 vless://6489012d-d831-4670-df1b-76f11efd4dbe@[::ffff:d412:683e]:23078?mode=gun&security=reality&encryption=none&pbk=rwOdBjkVR7JyMzQWZMOW4FaHdr9euEYGABwPzv8UA28&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=account.zula.ir&sid=20410a#Mix+9+%E2%98%91%EF%B8%8F%40V2ray_Alpha
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@104.18.189.219:443?security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#Mix+10+%E2%98%91%EF%B8%8F%40V2ray_Alpha
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#ws#WS+1+%F0%9F%8C%A8%EF%B8%8F%40V2ray_Alpha
-vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?security=none, 20
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#20
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?security=none&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws#WS+2+%F0%9F%8C%A8%EF%B8%8F%40V2ray_Alpha
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#WS+3+%F0%9F%8C%A8%EF%B8%8F%40V2ray_Alpha
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@188.114.96.18:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#WS+4+%F0%9F%8C%A8%EF%B8%8F%40V2ray_Alpha
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@188.114.96.3:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#WS+5+%F0%9F%8C%A8%EF%B8%8F%40V2ray_Alpha
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@188.114.96.18:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#WS+6+%F0%9F%8C%A8%EF%B8%8F%40V2ray_Alpha
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@198.41.202.5:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#WS+7+%F0%9F%8C%A8%EF%B8%8F%40V2ray_Alpha
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.18.189.219:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#ws, 26
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.18.189.219:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#26
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#TLS+2+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F+%40V2ray_Alpha
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#TLS+3+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F+%40V2ray_Alpha
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#TLS+4+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F+%40V2ray_Alpha
@@ -43,16 +40,15 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@198.41.202.5:443?security=tls&encry
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#TLS+6+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F+%40V2ray_Alpha
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#TLS+7+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F+%40V2ray_Alpha
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#TLS+8+%F0%9F%A7%9A%E2%80%8D%E2%99%80%EF%B8%8F+%40V2ray_Alpha
-vless://dcff7e64-f2d8-47c4-8ef8-e33e72b7d5dd@104.31.16.178:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=pq1.fitpasta30.xyz#grpc, 72
-vless://Telegram-V2ray_alpha@ipv6-serv1.mammadix.cam:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=Telegram@V2ray_Alpha&sni=hamrahavalgaiidimaro1402.mammadix.cam#grpc, 74
+vless://dcff7e64-f2d8-47c4-8ef8-e33e72b7d5dd@104.31.16.178:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=&sni=pq1.fitpasta30.xyz#72
+vless://Telegram-V2ray_alpha@ipv6-serv1.mammadix.cam:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=Telegram@V2ray_Alpha&sni=hamrahavalgaiidimaro1402.mammadix.cam#74
 vless://a42b324b-a919-4649-8c1c-df0af14dfccc@ipv6-serv2.mammadix.cam:2087?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=Telegram@V2ray_Alpha&sni=hamrahavalgaiidimaro1402.mammadix.cam#gRPC+2+%F0%9F%8C%A0+%40V2ray_Alpha
 vless://0e08e201-fda3-4f36-a8a2-85f9f2e2245c@ipv6-serv3.mammadix.cam:2096?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=chrome&type=grpc&serviceName=Telegram@V2ray_Alpha&sni=hamrahavalgaiidimaro1402.mammadix.cam#gRPC+3+%F0%9F%8C%A0+%40V2ray_Alpha
 vless://f2901af8-7658-4f04-87b4-d995fce3ca31@ipv6-serv4.mammadix.cam:8443?mode=gun&security=tls&encryption=none&alpn=http/1.1&fp=ios&type=grpc&serviceName=Telegram@V2ray_Alpha&sni=hamrahavalgaiidimaro1402.mammadix.cam#gRPC+4+%F0%9F%8C%A0+%40V2ray_Alpha
 vless://06e87d4a-314d-4651-af86-d4f55624159a@ipv6-serv5.mammadix.cam:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=ios&type=grpc&serviceName=Telegram@V2ray_Alpha&sni=hamrahavalgaiidimaro1402.mammadix.cam#gRPC+5+%F0%9F%8C%A0+%40V2ray_Alpha
 vless://0594efbe-e06b-428c-f1a8-c70a8bb427f7@ipv6-serv6.mammadix.cam:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Telegram@V2ray_Alpha&sni=hamrahavalgaiidimaro1402.mammadix.cam#gRPC+6+%F0%9F%8C%A0+%40V2ray_Alpha
-vless://c6939095-cce3-45dc-97d8-9c5072ddfad0@effect.miminsm.fun:5613?security=tls&encryption=none&alpn=h2,http/1.1&host=kodular.io&fp=ios&type=ws&sni=go.miminsm.fun#ws, 78
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#ws#WS+1+%E2%9C%85+%40V2ray_Alpha
-vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?security=none, 84
+vless://c6939095-cce3-45dc-97d8-9c5072ddfad0@effect.miminsm.fun:5613?security=tls&encryption=none&alpn=h2,http/1.1&host=kodular.io&fp=ios&type=ws&sni=go.miminsm.fun#78
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#84
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?security=none&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws#WS+2+%E2%9C%85+%40V2ray_Alpha
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#WS+3+%E2%9C%85+%40V2ray_Alpha
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#WS+4+%E2%9C%85+%40V2ray_Alpha
@@ -62,12 +58,11 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&encry
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.22.38.37:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#WS+TLS+3+%E2%98%91%EF%B8%8F+%40V2ray_Alpha
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#WS+TLS+4+%E2%98%91%EF%B8%8F+%40V2ray_Alpha
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#WS+TLS+5+%E2%98%91%EF%B8%8F+%40V2ray_Alpha
-vless://94fd9e77-1804-4d25-a8e1-c5b5ba514063@65.109.199.189:10974?mode=gun&security=reality&encryption=none&pbk=QbLsx0oV7dQVz4wXbm1ggmEVQ_bQKqiWHXa1sjsntGM&fp=chrome&type=grpc&serviceName=&sni=Chir&sid=9c55cb07#grpc, 92
-vless://09eb5c0d-8e59-4428-ac45-93cdd522a143@5.75.200.225:52881?security=reality&encryption=none&pbk=xatmYKQWUBDL2t3b3lh9eUfzhRbVzlXANsGrtiLLc3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=df257c60#tcp, 94
-vless://94fd9e77-1804-4d25-a8e1-c5b5ba514063@65.109.199.189:10974?mode=gun&security=reality&encryption=none&pbk=QbLsx0oV7dQVz4wXbm1ggmEVQ_bQKqiWHXa1sjsntGM&fp=chrome&type=grpc&serviceName=&sni=Chir&sid=9c55cb07#grpc, 96
+vless://94fd9e77-1804-4d25-a8e1-c5b5ba514063@65.109.199.189:10974?mode=gun&security=reality&encryption=none&pbk=QbLsx0oV7dQVz4wXbm1ggmEVQ_bQKqiWHXa1sjsntGM&fp=chrome&type=grpc&serviceName=&sni=Chir&sid=9c55cb07#92
+vless://09eb5c0d-8e59-4428-ac45-93cdd522a143@5.75.200.225:52881?security=reality&encryption=none&pbk=xatmYKQWUBDL2t3b3lh9eUfzhRbVzlXANsGrtiLLc3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=df257c60#94
+vless://94fd9e77-1804-4d25-a8e1-c5b5ba514063@65.109.199.189:10974?mode=gun&security=reality&encryption=none&pbk=QbLsx0oV7dQVz4wXbm1ggmEVQ_bQKqiWHXa1sjsntGM&fp=chrome&type=grpc&serviceName=&sni=Chir&sid=9c55cb07#96
 vless://09eb5c0d-8e59-4428-ac45-93cdd522a143@5.75.200.225:52881?security=reality&encryption=none&pbk=xatmYKQWUBDL2t3b3lh9eUfzhRbVzlXANsGrtiLLc3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=df257c60#Dr.s+2+%40V2ray_Alpha
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.73.163:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#ws#WS+1+%E2%9A%A1+%40V2ray_Alpha
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none, 116
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@172.67.73.163:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#116
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#WS+2+%E2%9A%A1+%40V2ray_Alpha
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#WS+3+%E2%9A%A1+%40V2ray_Alpha
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.24.188.54:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#WS+4+%E2%9A%A1+%40V2ray_Alpha
@@ -76,38 +71,37 @@ vless://da8d0369-0121-4d2b-9fe1-c071833604cf@tgju.org:80?security=none&encryptio
 vless://da8d0369-0121-4d2b-9fe1-c071833604cf@172.66.47.74:80?security=none&encryption=none&host=fl.gooldeneaglee.eu.org&type=ws#WS+7+%E2%9A%A1+%40V2ray_Alpha
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?security=none&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws#WS+8+%E2%9A%A1+%40V2ray_Alpha
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#WS+9+%E2%9A%A1+%40V2ray_Alpha
-vless://d2c055ac-0dad-40c6-f619-b30a4e23c9a0@81.12.27.6:49102?security=none&encryption=none&type=ws#ws#Dr.s+All+Operators, 118
-vless://ef9e70de-6792-4251-8f5c-91ff37f131ea@190.93.246.241:2096?security=tls&encryption=none&host=drs.alpha7.top&fp=chrome&type=ws&sni=drs.alpha7.top#ws, 120
+vless://d2c055ac-0dad-40c6-f619-b30a4e23c9a0@81.12.27.6:49102?security=none&encryption=none&type=ws#118
+vless://ef9e70de-6792-4251-8f5c-91ff37f131ea@190.93.246.241:2096?security=tls&encryption=none&host=drs.alpha7.top&fp=chrome&type=ws&sni=drs.alpha7.top#120
 vless://59d41026-71d3-40d7-b53e-35c95f92b243@serv-4.alpha4.top:2087?path=%2F&security=tls&encryption=none&host=drs.alpha7.top&fp=chrome&type=ws&sni=drs.alpha7.top#Dr.s+2+%F0%9F%8C%A0+%40V2ray_Alpha
 vless://520bb6ba-b207-4f20-b0dd-8250893461f2@serv-3.alpha4.top:8443?security=tls&encryption=none&host=drs.alpha7.top&fp=chrome&type=ws&sni=drs.alpha7.top#Dr.s+3+%F0%9F%8C%A0+%40V2ray_Alpha
 vless://6bf3e709-c1f7-4e15-b962-613cd7af4d7a@serv-2.alpha4.top:2053?security=tls&encryption=none&host=drs.alpha7.top&fp=chrome&type=ws&sni=drs.alpha7.top#Dr.s+4+%F0%9F%8C%A0+%40V2ray_Alpha
 vless://69b5e1f0-1844-489a-aa3f-68ffd3e4aee3@serv-1.alpha4.top:2083?security=tls&encryption=none&host=drs.alpha7.top&fp=firefox&type=ws&sni=drs.alpha7.top#Dr.s+5+%F0%9F%8C%A0+%40V2ray_Alpha
-vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.50.244.154:443?security=reality&encryption=none&pbk=Y7YSJPoDN_i-fEoddFEdIvahhpB9brawDNbcMwo0_iQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lolstatic-a.akamaihd.net&sid=1db3#tcp, 122
-vless://f113953f-9a93-4970-a6b1-c457232480d3@kinsta.sjmek.ir:3389?type=tcp&host=http%3A%2F%2Fkinsta.sjmek.ir&headerType=http&security=none#tcp, 124
-vless://23758119-cf33-4269-fb50-bc04930d356a@16.16.100.61:2083?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cdn.amazon.com&fp=chrome&pbk=OT9G5P1dtmx3WUHP2K2PsnV71m72SPdTkWvX3YfzLU0&sid=4e8756&spx=%2F&type=tcp&headerType=none#tcp, 126
-vless://b5f3ca57-82e6-4e98-9f26-0f1b6ab9c201@kinsta.sjmek.ir:255?type=tcp&host=soft98.ir&headerType=http&security=none#tcp, 128
-vless://5b467743-3fb1-4c83-997f-1d5bea759c50@kinsta.sjmek.ir:33988?type=tcp&headerType=http&security=none#tcp, 130
-vless://5b467743-3fb1-4c83-997f-1d5bea759c50@kinsta.sjmek.ir:33988?type=tcp&headerType=http&security=none#tcp, 132
-vless://6bf73696-4b09-4d40-c438-5f863705364b@sup.digikalamanage.shop:35021?type=ws&path=%2F#ws, 140
-vless://5b467743-3fb1-4c83-997f-1d5bea759c50@kinsta.sjmek.ir:33988?type=tcp&headerType=http&security=none#tcp, 142
+vless://2c59ff33-916d-459b-a4c0-8b7432c4c3bb@13.50.244.154:443?security=reality&encryption=none&pbk=Y7YSJPoDN_i-fEoddFEdIvahhpB9brawDNbcMwo0_iQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lolstatic-a.akamaihd.net&sid=1db3#122
+vless://f113953f-9a93-4970-a6b1-c457232480d3@kinsta.sjmek.ir:3389?type=tcp&host=http%3A%2F%2Fkinsta.sjmek.ir&headerType=http&security=none#124
+vless://23758119-cf33-4269-fb50-bc04930d356a@16.16.100.61:2083?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cdn.amazon.com&fp=chrome&pbk=OT9G5P1dtmx3WUHP2K2PsnV71m72SPdTkWvX3YfzLU0&sid=4e8756&spx=%2F&type=tcp&headerType=none#126
+vless://b5f3ca57-82e6-4e98-9f26-0f1b6ab9c201@kinsta.sjmek.ir:255?type=tcp&host=soft98.ir&headerType=http&security=none#128
+vless://5b467743-3fb1-4c83-997f-1d5bea759c50@kinsta.sjmek.ir:33988?type=tcp&headerType=http&security=none#130
+vless://5b467743-3fb1-4c83-997f-1d5bea759c50@kinsta.sjmek.ir:33988?type=tcp&headerType=http&security=none#132
+vless://6bf73696-4b09-4d40-c438-5f863705364b@sup.digikalamanage.shop:35021?type=ws&path=%2F#140
+vless://5b467743-3fb1-4c83-997f-1d5bea759c50@kinsta.sjmek.ir:33988?type=tcp&headerType=http&security=none#142
 
-vless://5b467743-3fb1-4c83-997f-1d5bea759c50@kinsta.sjmek.ir:33988?type=tcp&headerType=http&security=none#tcp, 144
-vless://eaa983d2-ba9b-4abb-918b-55a7a39123b5@sup.digikalamanage.shop:20214?security=none&encryption=none&type=ws#ws#%D8%B3%D8%A7%D8%AE%D8%AA%D9%87+%D8%B4%D8%AF%D9%87+%D8%AA%D9%88%D8%B3%D8%B7+%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85+%3A%40amir_4you, 146
-vless://57185d94-c287-4763-b787-3ba6a00642f8@trs.v2shield.cloud:51183?type=grpc&serviceName=%2Fkinsta_service&security=reality&fp=chrome&pbk=e_lo4HeL-LU6RbRbl3kb3wZF2U_xnZWHfoXjeDH-R34&sni=www.speedtest.net&sid=cbc3c06a&spx=%2F#grpc, 148
-vless://36e38db5-4950-4dc3-fe5e-df84cfba6850@sup.digikalamanage.shop:30011?type=ws&path=%2F#ws, 152
-vless://3fa6ad85-97c5-4cb3-b758-f49e9f2be872@104.31.16.242:443?security=tls&encryption=none&host=bolbolvpn-join-us-1.rising-from-ashes.sbs&fp=chrome&type=ws&sni=bolbolvpn-join-us-1.rising-from-ashes.sbs#ws, 204
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#ws, 206
+vless://5b467743-3fb1-4c83-997f-1d5bea759c50@kinsta.sjmek.ir:33988?type=tcp&headerType=http&security=none#144
+vless://eaa983d2-ba9b-4abb-918b-55a7a39123b5@sup.digikalamanage.shop:20214?security=none&encryption=none&type=ws#146
+vless://57185d94-c287-4763-b787-3ba6a00642f8@trs.v2shield.cloud:51183?type=grpc&serviceName=%2Fkinsta_service&security=reality&fp=chrome&pbk=e_lo4HeL-LU6RbRbl3kb3wZF2U_xnZWHfoXjeDH-R34&sni=www.speedtest.net&sid=cbc3c06a&spx=%2F#148
+vless://36e38db5-4950-4dc3-fe5e-df84cfba6850@sup.digikalamanage.shop:30011?type=ws&path=%2F#152
+vless://3fa6ad85-97c5-4cb3-b758-f49e9f2be872@104.31.16.242:443?security=tls&encryption=none&host=bolbolvpn-join-us-1.rising-from-ashes.sbs&fp=chrome&type=ws&sni=bolbolvpn-join-us-1.rising-from-ashes.sbs#204
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@172.67.170.103:443?security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#206
 vless://c99c85a9-5e25-4e46-8674-7dafd4ccc486@81.12.27.30:19142?path=path%2F%3F%3F&security=none&encryption=none&type=ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%94%B5%E2%9A%AA%F0%9F%94%B4+++%40V2RAYNPLUS+++%F0%9F%87%A8%F0%9F%87%B5
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%E2%9A%AB%F0%9F%94%B4%F0%9F%9F%A1+++%40V2RAYNPLUS+++%F0%9F%87%A9%F0%9F%87%AA
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%E2%9A%AA%F0%9F%9F%A3+++%40V2RAYNPLUS
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none, 208
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#208
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A4%F0%9F%94%B4%F0%9F%9F%A2+++%40V2RAYNPLUS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.18.189.219:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A1%E2%9A%AA%F0%9F%9F%A4+++%40V2RAYNPLUS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%F0%9F%9F%A1%F0%9F%9F%A2+++%40V2RAYNPLUS
 vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%E2%9A%AB%F0%9F%94%B4+++%40V2RAYNPLUS
 vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%E2%9A%AA%F0%9F%9F%A4+++%40V2RAYNPLUS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?security=tls&encryption=none&alpn=http/1.1&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%F0%9F%9F%A1%F0%9F%9F%A3+++%40V2RAYNPLUS
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.24.188.54:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#ws, 210
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.24.188.54:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#210
 vless://telegram-id-ArV2ray@ArV2ray.mashti.tech:80?path=%2F%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%3Fed%3D2048&security=none&encryption=none&host=l.I.arv2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B781.tech&type=ws#%F0%9F%85%B0LL+OPERATORS+++%E2%9A%AB%E2%9A%AA%F0%9F%9F%A3+++%40V2RAYNPLUS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.27.102.105:443?security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%E2%9A%AB%F0%9F%9F%A2+++%40V2RAYNPLUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%E2%9A%AA%F0%9F%9F%A2+++%40V2RAYNPLUS
@@ -119,8 +113,7 @@ vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@104.21.28.62:443?security=tls&encry
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A4%E2%9A%AB%F0%9F%9F%A3+++%40V2RAYNPLUS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%E2%9A%AB%F0%9F%9F%A1%F0%9F%9F%A3+++%40V2RAYNPLUS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%94%B4%F0%9F%9F%A2%F0%9F%9F%A3+++%40V2RAYNPLUS
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%F0%9F%94%B4%F0%9F%9F%A3+++%40V2RAYNPLUS
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none, 212
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#212
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@173.245.58.31:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%F0%9F%94%B5%F0%9F%9F%A3+++%40V2RAYNPLUS
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@188.114.96.18:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%E2%9A%AA%F0%9F%9F%A3+++%40V2RAYNPLUS
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?security=none&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%F0%9F%9F%A1%F0%9F%9F%A3+++%40V2RAYNPLUS
@@ -133,10 +126,9 @@ vless://telegram-id-ArV2ray@188.114.97.1:80?path=%2F%40ArV2ray%2C%40ArV2ray%2C%4
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.25.44.33:443?security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%E2%9A%AA%F0%9F%9F%A3+++%40V2RAYNPLUS
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%F0%9F%94%B5%F0%9F%9F%A3+++%40V2RAYNPLUS
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@198.41.202.5:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A1%F0%9F%94%B4%F0%9F%9F%A3+++%40V2RAYNPLUS
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@141.101.115.235:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A2%F0%9F%9F%A1%F0%9F%9F%A3+++%40V2RAYNPLUS+++%F0%9F%87%BA%F0%9F%87%B2
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@190.93.246.241:443?path=%2F%3Ft.me%2FV2RAYNPLUSt.me%2FV2RAYNPLUSt.me%2FV2RAYNPLUSt.me%2FV2RAYNPLUSed%3D2048, 214
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@141.101.115.235:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#214
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@190.93.246.241:443?path=%2F%3Ft.me%2FV2RAYNPLUSt.me%2FV2RAYNPLUSt.me%2FV2RAYNPLUSt.me%2FV2RAYNPLUSed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=3k.pureboy.eu.org&fp=qq&type=ws&sni=3k.pureboy.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A1%F0%9F%9F%A2%F0%9F%9F%A3+++%40V2RAYNPLUS+++%F0%9F%87%A8%F0%9F%87%B7
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@190.93.247.11:443?security=tls&encryption=none&alpn=h2,http/1.1&host=w1.sylar8.eu.org&fp=chrome&type=ws&sni=w1.sylar8.eu.org#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A1%F0%9F%9F%A2%F0%9F%9F%A3+++%40V2RAYNPLUS+++%F0%9F%87%A8%F0%9F%87%B7+.
 vless://48bd4d22-e42f-4749-af6a-85ecf716c823@172.67.73.163:80?security=none&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%94%B4%F0%9F%9F%A2%F0%9F%9F%A1+++%40V2RAYNPLUS+++%F0%9F%87%A8%F0%9F%87%A6
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@188.114.96.18:80?security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#%F0%9F%85%B0LL+OPERATORS+++%F0%9F%9F%A1%F0%9F%94%B4%F0%9F%94%B5+++%40V2RAYNPLUS+++%F0%9F%87%B1%F0%9F%87%BA
-vless://cf238e2a-65c6-4137-9948-3bce8d51cedc@195.201.236.225:9902?mode=gun&security=reality&encryption=none&pbk=qkPgD7b50YFT7-x9Qo5IaYVMKM2S_8_CgpyoNbntGC4&fp=firefox&spx=%2F&type=grpc&serviceName=----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus&sni=upmusics.com&sid=5d779476#grpc, 218
+vless://cf238e2a-65c6-4137-9948-3bce8d51cedc@195.201.236.225:9902?mode=gun&security=reality&encryption=none&pbk=qkPgD7b50YFT7-x9Qo5IaYVMKM2S_8_CgpyoNbntGC4&fp=firefox&spx=%2F&type=grpc&serviceName=----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus----------@v2raynplus&sni=upmusics.com&sid=5d779476#218
